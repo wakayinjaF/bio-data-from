@@ -1,0 +1,15 @@
+.biodata-form-container {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: -5%;
+}
+.form {
+    padding: 10px;
+}
+.biodata-form-container.form.table {
+    justify-content: center;
+    flex: content;
+    padding: 5%;
+}
